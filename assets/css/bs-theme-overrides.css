@@ -2,5 +2,8 @@
   --bs-body-font-family: Allerta, sans-serif;
   --bs-link-color: #e4e4e4;
   --bs-link-color-rgb: 228,228,228;
+  --bs-link-hover-color: #359ec8;
+  --bs-link-hover-color-rgb: 53,158,200;
+  --bs-link-decoration: blink;
 }
 
